@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 
-![](C:\Users\dubey\Desktop\bewgle.PNG)
+![](https://drive.google.com/file/d/1D7XCrRGf8Ayp5MtDWuLhZZsRUYw2Rb5z/view?usp=sharing)
 
 ## Development server
 
