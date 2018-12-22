@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Preview
 
-![](https://drive.google.com/file/d/1D7XCrRGf8Ayp5MtDWuLhZZsRUYw2Rb5z/view?usp=drivesdk)
+![](https://drive.google.com/uc?export=view&id=1D7XCrRGf8Ayp5MtDWuLhZZsRUYw2Rb5z)
 
 ## Development server
 
